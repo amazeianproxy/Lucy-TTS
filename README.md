@@ -9,8 +9,8 @@ Instructions:
 7. Run run.bat.
 
 Alternatively after no.4:
-6. On terminal, pip install gradio.
-7. On terminal, pip install TTS.
-8. Run app.py.
+1. On terminal, pip install gradio.
+2. On terminal, pip install TTS.
+3. Run app.py.
 
 Run via virtual environment or directly.
