@@ -1,12 +1,12 @@
 Instructions (no virtual environment):
 1. Install Python 3.11.9.
 2. Install Microsoft C++ Build Tools.
-3a. Select "Desktop development with C++".
-3b. Individually select MSVC v14.x compiler toolset (latest version) and Windows 10/11 SDK (or appropriate SDK) if needed.
-4. Install eSpeak. Set eSpeak to PATH (system environment).
-5. Install the best_model.pth from this [link] here. You may have to rename the .pth file to best_model. Move the best_model.pth file to the installation folder.
-6. Run the app.py, which will output a link.
-7. Copy the link and paste it on your browser.
+3. Select "Desktop development with C++".
+4. Individually select MSVC v14.x compiler toolset (latest version) and Windows 10/11 SDK (or appropriate SDK) if needed.
+5. Install eSpeak. Set eSpeak to PATH (system environment).
+6. Install the best_model.pth from this [link] here. You may have to rename the .pth file to best_model. Move the best_model.pth file to the installation folder.
+7. Run the app.py, which will output a link.
+8. Copy the link and paste it on your browser.
 
 Instructions (virtual environment):
 1. Setup the virtual environment. Make sure the python version is 3.11.9.
