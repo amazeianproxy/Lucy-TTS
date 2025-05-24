@@ -3,7 +3,7 @@ Instructions (no virtual environment):
 2. Install Microsoft C++ Build Tools.
 3a. Select "Desktop development with C++".
 3b. Individually select MSVC v14.x compiler toolset (latest version) and Windows 10/11 SDK (or appropriate SDK) if needed.
-4. Install eSpeak. Set eSpeak to PATH.
+4. Install eSpeak. Set eSpeak to PATH (system environment).
 5. Install the best_model.pth from this [link] here. You may have to rename the .pth file to best_model. Move the best_model.pth file to the installation folder.
 6. Run the app.py, which will output a link.
 7. Copy the link and paste it on your browser.
@@ -11,7 +11,7 @@ Instructions (no virtual environment):
 Instructions (virtual environment):
 1. Setup the virtual environment. Make sure the python version is 3.11.9.
 2. Move into the virtual environment, if you have not already done so.
-3. Make sure you already have Microsoft C++ Build Tools installed, and eSpeak.
+3. Make sure you already have Microsoft C++ Build Tools installed, and eSpeak. Set eSpeak to PATH (system environment).
 4. On terminal, run "pip install gradio".
 5. On terminal, run "pip install TTS".
 6. If in case "pip install TTS" errors due to Microsoft C++ Build Tools, navigate to the Microsoft Visual C++ Compiler (the x64 version or the x86 version depending on your computer) and move into the virtual environment and run "pip install TTS" there.
