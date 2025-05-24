@@ -5,8 +5,9 @@ Instructions (no virtual environment):
 4. Individually select MSVC v14.x compiler toolset (latest version) and Windows 10/11 SDK (or appropriate SDK) if needed.
 5. Install eSpeak. Set eSpeak to PATH (system environment).
 6. Install the best_model.pth from this [link] here. You may have to rename the .pth file to best_model. Move the best_model.pth file to the installation folder.
-7. Run the app.py, which will output a link.
-8. Copy the link and paste it on your browser.
+7. Run the setup.bat, which will install gradio and TTS directly.
+8. Run the app.py, which will output a link.
+9. Copy the link and paste it on your browser.
 
 Instructions (virtual environment):
 1. Setup the virtual environment. Make sure the python version is 3.11.9.
