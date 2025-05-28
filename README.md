@@ -4,8 +4,8 @@ Instructions (no virtual environment):
 3. Select "Desktop development with C++".
 4. Individually select MSVC v14.x compiler toolset (latest version) and Windows 10/11 SDK (or appropriate SDK) if needed.
 5. Install eSpeak. Set eSpeak to PATH (system environment).
-6. Install the best_model.pth from this [link] here. You may have to rename the .pth file to best_model. Move the best_model.pth file to the installation folder.
-7. Run the setup.bat, which will install gradio and TTS directly.
+6. Install the best_model.pth from [https://drive.google.com/file/d/1-35ZCl1vb_8UFxwTHNlYWNgbVXGZVx_0/view]. You may have to rename the .pth file to best_model. Move the best_model.pth file to the installation folder.
+7. Run the setup.bat, which will install gradio and TTS directly to your system.
 8. Install the requirements (gradio and TTS) on your system.
 9. Copy the link and paste it on your browser.
 
@@ -20,4 +20,5 @@ Instructions (virtual environment):
 8. Copy the link and paste it on your browser.
 
 Run via virtual environment or directly.
-We also provide a much more accessible version on huggingface, which enables an always online demo of our model. The link can be accessed here: [link]
+We also provide a much more accessible version on huggingface, which enables an always online demo of our model. The link can be accessed here: 
+[https://huggingface.co/spaces/Yabes456/Text_To_Speech_LJSpeech_Project/tree/main]
