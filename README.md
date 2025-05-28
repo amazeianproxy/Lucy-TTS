@@ -1,4 +1,9 @@
-Instructions (no virtual environment):
+**ML-NLP Project**
+1. Ian Mulya Chiuandi - 2702218891
+2. Yabes Edward Sihombing - 2702354861
+3. Ergi Hendrarto Putra - 2702351696
+
+**Instructions (no virtual environment):**
 1. Install Python 3.11.9.
 2. Install Microsoft C++ Build Tools.
 3. Select "Desktop development with C++".
@@ -9,7 +14,7 @@ Instructions (no virtual environment):
 8. Install the requirements (gradio and TTS) on your system.
 9. Copy the link and paste it on your browser.
 
-Instructions (virtual environment):
+**Instructions (virtual environment):**
 1. Setup the virtual environment. Make sure the python version is 3.11.9.
 2. Move into the virtual environment, if you have not already done so.
 3. Make sure you already have Microsoft C++ Build Tools installed, and eSpeak. Set eSpeak to PATH (system environment).
