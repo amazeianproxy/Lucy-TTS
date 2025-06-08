@@ -9,7 +9,7 @@
 3. Select "Desktop development with C++".
 4. Individually select MSVC v14.x compiler toolset (latest version) and Windows 10/11 SDK (or appropriate SDK) if needed.
 5. Install eSpeak. Set eSpeak to PATH (system environment).
-6. Install the best_model.pth from [https://drive.google.com/file/d/1-35ZCl1vb_8UFxwTHNlYWNgbVXGZVx_0/view]. You may have to rename the .pth file to "best_model". Move the best_model.pth file to the installation folder.
+6. Install the best_model.pth from [https://drive.google.com/file/d/1-35ZCl1vb_8UFxwTHNlYWNgbVXGZVx_0/view]. Move the best_model.pth file to the installation folder.
 7. Setup the virtual environment. Make sure the python version is 3.11.9.
 8. Move into the virtual environment, if you have not already done so.
 9. On terminal, run "pip install gradio". (Alternatively, just download the requirements directly from requirements.txt.)
@@ -24,7 +24,7 @@
 3. Select "Desktop development with C++".
 4. Individually select MSVC v14.x compiler toolset (latest version) and Windows 10/11 SDK (or appropriate SDK) if needed.
 5. Install eSpeak. Set eSpeak to PATH (system environment).
-6. Install the best_model.pth from [https://drive.google.com/file/d/1-35ZCl1vb_8UFxwTHNlYWNgbVXGZVx_0/view]. You may have to rename the .pth file to best_model. Move the best_model.pth file to the installation folder.
+6. Install the best_model.pth from [https://drive.google.com/file/d/1-35ZCl1vb_8UFxwTHNlYWNgbVXGZVx_0/view]. Move the best_model.pth file to the installation folder.
 7. Run the setup.bat, which will install gradio and TTS directly to your system.
 8. Run the app.py on VSCode, which will output a link.
 9. Copy the link and paste it on your browser.
